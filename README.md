@@ -1,73 +1,73 @@
-🌤️ Weather Forecast App
+# 🌤️ Weather Forecast App
+
 A simple and interactive weather forecast web application that allows users to check the current weather conditions of any city worldwide using real-time data from the OpenWeatherMap API.
 
-<!-- Optional: Replace with actual screenshot link -->
+---
 
-🚀 Features
-🔍 Search weather by city name
+## 🚀 Features
 
-🌡️ Displays temperature, weather condition, humidity, and wind speed
+- 🔍 Search weather by city name  
+- 🌡️ Displays temperature, weather condition, humidity, and wind speed  
+- 🌇 Dynamic background based on weather  
+- 🌐 Uses **OpenWeatherMap API** for real-time weather updates  
+- 📱 Responsive design for desktop and mobile devices  
 
-🌇 Dynamic background based on weather
+---
 
-🌐 Uses OpenWeatherMap API for real-time weather updates
+## 🛠️ Tech Stack
 
-📱 Responsive design for desktop and mobile devices
+- **Frontend**: HTML, CSS, JavaScript  
+- **API**: [OpenWeatherMap API](https://openweathermap.org/api)
 
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript
+---
 
-API: OpenWeatherMap API
+## 📦 Installation
 
-📦 Installation
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/Abhinavgupta33/weather_forecast.git
-Navigate into the folder
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Abhinavgupta33/weather_forecast.git
+Navigate into the project directory
 
 bash
 Copy
 Edit
 cd weather_forecast
-Open index.html in your browser
-You can directly run it in any modern browser or use Live Server in VS Code.
+Open the index.html file in your browser
+You can open it directly or use the Live Server extension in VS Code.
 
 🔑 API Key Setup
-Create a free account on OpenWeatherMap.
+Create a free account at OpenWeatherMap.
 
-Generate your API key.
+Navigate to your account dashboard and get the API key.
 
-Replace the placeholder in the JavaScript file:
+Open the script.js file and replace the placeholder:
 
 js
 Copy
 Edit
 const apiKey = "YOUR_API_KEY_HERE";
 📸 Demo
-Check out the live demo (if hosted):
-🔗 Live Demo <!-- Add if hosted on GitHub Pages or any service -->
+🟢 Live Demo
+(Add the link here if hosted using GitHub Pages or Render)
 
 🙌 Acknowledgements
-OpenWeatherMap for providing the API
+OpenWeatherMap for the API
 
-Icons from Font Awesome (if used)
+Font Awesome for weather icons (if used)
 
-Backgrounds from Unsplash or other resources (if applicable)
+Unsplash for background images (if used)
 
 📌 To-Do / Improvements
- Add location-based auto weather detection
+ Auto-detect weather using user's current location
 
- Display 5-day weather forecast
+ Add 5-day weather forecast
 
- Add unit toggle (°C / °F)
+ Toggle between °C and °F
 
 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for more information.
 
 👤 Author
 Abhinav Gupta
-📧 ag9108074@gmail.com
-
+🔗 GitHub Profile
+📧 Email: ag9108074@gmail.com
